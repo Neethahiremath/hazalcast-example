@@ -1,0 +1,6 @@
+2020-02-17 13:52:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "EMPLOYEE" not found; SQL statement:
+INSERT INTO employee (empId, empName) VALUES (?, ?) [42102-196]
+2020-02-17 13:57:19 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "EMPLOYEE" not found; SQL statement:
+INSERT INTO employee (empId, empName) VALUES (?, ?) [42102-196]
